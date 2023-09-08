@@ -1,3 +1,3 @@
 # python_discord_msgs
-python code to get discord messages as json objects
+python code to extract discord messages in a json file
 
